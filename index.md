@@ -1,13 +1,14 @@
 ---
-title: Jekyll Serif Theme
+title: Stix and Codes Academy
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Our mission is to make learning technology engaging, accessible, and impactful through virtual classes and collaborative partnerships.
+
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Welcome To Stix and Codes Academy
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Our mission is to make learning technology engaging, accessible, and impactful through virtual classes and collaborative partnerships.
